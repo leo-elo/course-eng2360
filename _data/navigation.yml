@@ -1,383 +1,334 @@
-# Auto-generated navigation
-- slug: "hello-students"
-  title: "Hello Students"
-  type: post
-  date: "2020-01-13"
-  banner: "uploads/sites/6/2020/01/Screen-Shot-2020-01-13-at-7.37.14-AM.png"
-  categories: ["posts"]
-
-- slug: "course-redesign"
-  title: "Course Redesign"
-  type: post
-  date: "2020-03-23"
-  categories: ["posts"]
-
-- slug: "weeks-10-11-understanding-v-for-vendetta"
-  title: "Weeks 10 & 11: Understanding V for Vendetta"
-  type: post
-  date: "2020-03-30"
-  banner: "uploads/sites/6/2020/03/understanding-Vforvendetta.png"
-  categories: ["posts"]
-
-- slug: "weeks-12-13-moving-pictures"
-  title: "Weeks 12-13: Moving Pictures"
-  type: post
-  date: "2020-04-16"
-  banner: "uploads/sites/6/2020/04/v-and-evey.jpg"
-  categories: ["posts"]
-
-- slug: "weeks-14-15-digital-convergence"
-  title: "Weeks 14-15: Digital Convergence"
-  type: post
-  date: "2020-04-22"
-  banner: "uploads/sites/6/2020/04/4b.jpg"
-  categories: ["posts"]
-
-- slug: "fall-2020-startup"
-  title: "Fall 2020: Startup"
-  type: post
-  date: "2020-08-17"
-  banner: "uploads/sites/6/2020/01/SAAM-1981.109.9_1.jpg"
-  categories: ["posts"]
-
-- slug: "week-1-ut-pictura-poesis"
-  title: "Week 1: Literature and the Arts"
-  type: post
-  date: "2020-08-18"
-  banner: "uploads/sites/6/2020/01/2360-logo-sardines.jpg"
-  categories: ["posts"]
-
-- slug: "week-2-ekphastic-poetry"
-  title: "Week 2: Ekphastic Poetry"
-  type: post
-  date: "2020-08-25"
-  banner: "uploads/sites/6/2020/01/western-motel-scaled.jpg"
-  categories: ["posts"]
-
-- slug: "week-3-painting-with-words"
-  title: "Week 3: Painting with Words"
-  type: post
-  date: "2020-09-01"
-  banner: "uploads/sites/6/2020/01/PicturesFromBrueghel.jpg"
-  categories: ["posts"]
-
-- slug: "week-4-concrete-poetry"
-  title: "Week 4: Looking at Poems"
-  type: post
-  date: "2020-09-08"
-  banner: "uploads/sites/6/2020/02/decampos_h2.gif"
-  categories: ["posts"]
-
-- slug: "week-5-verbivocovisual"
-  title: "Week 5 : Verbivocovisual"
-  type: post
-  date: "2020-09-15"
-  banner: "uploads/sites/6/2020/09/dauenhauer_tlingit.jpg"
-  categories: ["posts"]
-
-- slug: "essay-1-analysis-and-interpretation-of-an-ekphrastic-or-concrete-poem"
-  title: "Essay #1: Analysis and Interpretation of an Ekphrastic Poem or Concrete Poems"
-  type: post
-  date: "2020-09-15"
-  banner: "uploads/sites/6/2020/02/giphy-1.gif"
-  categories: ["posts"]
-
-- slug: "week-6-poetry-and-music"
-  title: "Week 6: Poetry and Music"
-  type: post
-  date: "2020-09-22"
-  banner: "uploads/sites/6/2020/02/giphy.gif"
-  categories: ["posts"]
-
-- slug: "week-7-recorded-poetry"
-  title: "Week 7: Recorded Poetry"
-  type: post
-  date: "2020-09-29"
-  banner: "uploads/sites/6/2020/09/Lastpoetsalbum.png"
-  categories: ["posts"]
-
-- slug: "week-8-multimodality-and-performance"
-  title: "Week 8: Multimodality and Performance"
-  type: post
-  date: "2020-10-06"
-  banner: "uploads/sites/6/2020/03/shane-koyczan-e1473350695743.jpg"
-  categories: ["posts"]
-
-- slug: "essay-2-analysis-and-interpretation-of-sound-in-poetry"
-  title: "Essay #2: Sound and Performance in Poetry"
-  type: post
-  date: "2020-10-08"
-  banner: "uploads/sites/6/2020/04/listening.jpg"
-  categories: ["posts"]
-
-- slug: "week-9-videopoetry"
-  title: "Week 9: Videopoetry"
-  type: post
-  date: "2020-10-13"
-  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
-  categories: ["posts"]
-
-- slug: "week-10-videopoetry"
-  title: "Week 10: Videopoetry"
-  type: post
-  date: "2020-10-20"
-  banner: "uploads/sites/6/2020/10/bpnicholcompleteworks.png"
-  categories: ["posts"]
-
-- slug: "week-11-dancing-language"
-  title: "Week 11: Dancing Language"
-  type: post
-  date: "2020-10-27"
-  banner: "uploads/sites/6/2020/10/Screen-Shot-2020-10-27-at-3.19.10-PM.png"
-  categories: ["posts"]
-
-- slug: "week-12-distant-writing"
-  title: "Week 12: Distant Writing"
-  type: post
-  date: "2020-11-03"
-  banner: "uploads/sites/6/2020/11/Screen-Shot-2020-11-03-at-1.29.40-PM.png"
-  categories: ["posts"]
-
-- slug: "essay-3-words-in-motion"
-  title: "Essay #3: Words in Motion"
-  type: post
-  date: "2020-11-10"
-  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
-  categories: ["posts"]
-
-- slug: "week-13-interactivity"
-  title: "Week 13: Interactivity"
-  type: post
-  date: "2020-11-10"
-  banner: "uploads/sites/6/2020/11/Black-Mirror-Bandersnatch-1.jpg"
-  categories: ["posts"]
-
-- slug: "week-14-digital-convergence"
-  title: "Week 14: Digital Convergence"
-  type: post
-  date: "2020-11-17"
-  banner: "uploads/sites/6/2020/11/Zellen-Photonews.png"
-  categories: ["posts"]
-
-- slug: "week-15-digital-writing-and-art"
-  title: "Week 15: Digital Writing and Art"
-  type: post
-  date: "2020-11-24"
-  banner: "uploads/sites/6/2020/11/santadeniersmeme.jpg"
-  categories: ["posts"]
-
-- slug: "essay-4-analyzing-electronic-literature"
-  title: "Essay #4: Analyzing Electronic Literature"
-  type: post
-  date: "2020-11-24"
-  banner: "uploads/sites/6/2020/11/dreaming_methods_dimogauble.jpg"
-  categories: ["posts"]
-
-- slug: "fall-2023-underrepresented-voices-in-digital-literature"
-  title: "Fall 2023: Underrepresented Voices in Digital Literature"
-  type: post
-  date: "2023-08-17"
-  banner: "uploads/sites/6/2023/08/flores_2360_flyer_fall_2023.png"
-  categories: ["posts"]
-
-- slug: "week-1-what-is-electronic-literature"
-  title: "Week 1: What is Electronic Literature? And who gets to write it?"
-  type: post
-  date: "2023-08-21"
-  banner: "uploads/sites/6/2023/08/ferranti-mark-1-turing.png"
-  categories: ["posts"]
-
-- slug: "weeks-2-3-generative-writing"
-  title: "Weeks 2-3: Generative Writing"
-  type: post
-  date: "2023-08-28"
-  banner: "uploads/sites/6/2023/08/week2.png"
-  categories: ["posts"]
-
-- slug: "creative-project-1-generative-writing"
-  title: "Creative Project #1: Generative Writing"
-  type: post
-  date: "2023-09-06"
-  banner: "uploads/sites/6/2023/09/hackerpoets.png"
-  categories: ["Assignments"]
-
-- slug: "weeks-4-5-hypertext-and-video-games"
-  title: "Weeks 4-5: Hypertext and Video Games"
-  type: post
-  date: "2023-09-11"
-  banner: "uploads/sites/6/2023/09/readerplayer.png"
-  categories: ["posts"]
-
-- slug: "week-6-meaningful-interactivity"
-  title: "Week 6: Meaningful Interactivity"
-  type: post
-  date: "2023-09-25"
-  banner: "uploads/sites/6/2023/09/a-dictionary-of-the-revolution-banner.7f3f2ce7882c185be0d1.jpg"
-  categories: ["posts"]
-
-- slug: "creative-project-2-interactive-work"
-  title: "Creative Project #2: Interactive Work"
-  type: post
-  date: "2023-10-02"
-  banner: "uploads/sites/6/2023/10/interactiveworkfeatured.png"
-  categories: ["Assignments"]
-
-- slug: "week-7-building-twisty-little-passages"
-  title: "Week 7: Building Twisty Little Passages"
-  type: post
-  date: "2023-10-02"
-  categories: ["posts"]
-
-- slug: "week-8-9-dancing-language"
-  title: "Weeks 8-9: Dancing Language"
-  type: post
-  date: "2023-10-09"
-  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
-  categories: ["posts"]
-
-- slug: "week-10-performing-with-screens"
-  title: "Week 10: Performing With Screens"
-  type: post
-  date: "2023-10-23"
-  banner: "uploads/sites/6/2020/10/bpnicholcompleteworks.png"
-  categories: ["posts"]
-
-- slug: "week-11-installations-and-virtual-spaces"
-  title: "Week 11: Installations and Virtual Spaces"
-  type: post
-  date: "2023-10-30"
-  banner: "uploads/sites/6/2023/10/robopoema.png"
-  categories: ["posts"]
-
-- slug: "research-paper"
-  title: "Research Paper"
-  type: post
-  date: "2023-11-03"
-  categories: ["Assignments"]
-
-- slug: "week-12-jason-edward-lewis"
-  title: "Week 12: Jason Edward Lewis"
-  type: post
-  date: "2023-11-06"
-  categories: ["posts"]
-
-- slug: "week-13-lillian-yvonne-bertram"
-  title: "Week 13: Lillian-Yvonne Bertram"
-  type: post
-  date: "2023-11-13"
-  banner: "uploads/sites/6/2023/11/a_mathiowetz_crop-1-scaled.jpg"
-  categories: ["posts"]
-
-- slug: "week-14-a-fun-neal-fun-interval"
-  title: "Week 14: A Fun (Neal.fun) Interval"
-  type: post
-  date: "2023-11-20"
-  categories: ["posts"]
-
-- slug: "week-15-loss-pequeno-glazier"
-  title: "Week 15: Loss Pequeño Glazier"
-  type: post
-  date: "2023-11-27"
-  banner: "uploads/sites/6/2023/11/Glazier-Oliva-552.jpg"
-  categories: ["posts"]
-
-- slug: "week-16-shutdown"
-  title: "Week 16: Shutdown"
-  type: post
-  date: "2023-12-04"
-  categories: ["Assignments"]
-
+- type: "header"
+  term: "Spring 2024"
 - slug: "week-1-startup"
   title: "Week 1: Startup"
-  type: post
+  type: "post"
   date: "2024-01-11"
   banner: "uploads/sites/6/2024/01/craiyon_160247_generate_an_image_of_students_using_laptops_while_sitting_on_the_letters_of_a_giant_2.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "weeks-2-3-generative-writing-2"
   title: "Weeks 2-3: Generative Writing"
-  type: post
+  type: "post"
   date: "2024-01-22"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-4-hypertext"
   title: "Week 4: Hypertext"
-  type: post
+  type: "post"
   date: "2024-02-05"
   banner: "uploads/sites/6/2024/02/mazewoman.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-5-interactive-fiction-and-8-bit-games"
   title: "Week 5: Interactive Fiction and 8-bit Games"
-  type: post
+  type: "post"
   date: "2024-02-12"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-6-literary-video-games"
   title: "Week 6: Literary Video Games"
-  type: post
+  type: "post"
   date: "2024-02-19"
   banner: "uploads/sites/6/2024/02/arteroids-screenshot.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-7-keith-wilsons-poetry-and-poetics"
   title: "Week 7: Keith Wilson's Poetry and Poetics"
-  type: post
+  type: "post"
   date: "2024-02-26"
   banner: "uploads/sites/6/2024/02/Keith-Wilson-Promo.jpg"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-8-building-twisty-little-passages"
   title: "Week 8: Building Twisty Little Passages"
-  type: post
+  type: "post"
   date: "2024-03-04"
   banner: "uploads/sites/6/2024/03/highmuckamuck.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "weeks-9-10-spring-break-and-writing-on-video"
   title: "Weeks 9-10: Spring Break and Writing on Video"
-  type: post
+  type: "post"
   date: "2024-03-18"
   banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-11-videopoetry"
   title: "Week 11: Videopoetry"
-  type: post
+  type: "post"
   date: "2024-03-25"
   banner: "uploads/sites/6/2024/03/completeworksstephenson.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-12-literature-in-real-and-virtual-worlds"
   title: "Week 12: Literature in Real and Virtual Worlds"
-  type: post
+  type: "post"
   date: "2024-04-01"
   banner: "uploads/sites/6/2024/04/Dancing-With-Myself-01.jpg"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-13-jason-edward-lewis"
   title: "Week 13: Jason Edward Lewis"
-  type: post
+  type: "post"
   date: "2024-04-08"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-14-lillian-yvonne-bertram"
   title: "Week 14: Lillian Yvonne Bertram"
-  type: post
+  type: "post"
   date: "2024-04-15"
   banner: "uploads/sites/6/2023/11/a_mathiowetz_crop-1-scaled.jpg"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-15-latinx-digital-poetry"
   title: "Week 15: Latinx Digital Poetry"
-  type: post
+  type: "post"
   date: "2024-04-22"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
 - slug: "week-16-shutdown-2"
   title: "Week 16: Shutdown"
-  type: post
+  type: "post"
   date: "2024-04-29"
   banner: "uploads/sites/6/2024/04/Screenshot-2024-04-05-at-9.48.02-AM.png"
-  categories: ["posts"]
-
+  categories: "[\"posts\"]"
+- type: "header"
+  term: "Fall 2023"
+- slug: "fall-2023-underrepresented-voices-in-digital-literature"
+  title: "Fall 2023: Underrepresented Voices in Digital Literature"
+  type: "post"
+  date: "2023-08-17"
+  banner: "uploads/sites/6/2023/08/flores_2360_flyer_fall_2023.png"
+  categories: "[\"posts\"]"
+- slug: "week-1-what-is-electronic-literature"
+  title: "Week 1: What is Electronic Literature? And who gets to write it?"
+  type: "post"
+  date: "2023-08-21"
+  banner: "uploads/sites/6/2023/08/ferranti-mark-1-turing.png"
+  categories: "[\"posts\"]"
+- slug: "weeks-2-3-generative-writing"
+  title: "Weeks 2-3: Generative Writing"
+  type: "post"
+  date: "2023-08-28"
+  banner: "uploads/sites/6/2023/08/week2.png"
+  categories: "[\"posts\"]"
+- slug: "creative-project-1-generative-writing"
+  title: "Creative Project #1: Generative Writing"
+  type: "post"
+  date: "2023-09-06"
+  banner: "uploads/sites/6/2023/09/hackerpoets.png"
+  categories: "[\"Assignments\"]"
+- slug: "weeks-4-5-hypertext-and-video-games"
+  title: "Weeks 4-5: Hypertext and Video Games"
+  type: "post"
+  date: "2023-09-11"
+  banner: "uploads/sites/6/2023/09/readerplayer.png"
+  categories: "[\"posts\"]"
+- slug: "week-6-meaningful-interactivity"
+  title: "Week 6: Meaningful Interactivity"
+  type: "post"
+  date: "2023-09-25"
+  banner: "uploads/sites/6/2023/09/a-dictionary-of-the-revolution-banner.7f3f2ce7882c185be0d1.jpg"
+  categories: "[\"posts\"]"
+- slug: "creative-project-2-interactive-work"
+  title: "Creative Project #2: Interactive Work"
+  type: "post"
+  date: "2023-10-02"
+  banner: "uploads/sites/6/2023/10/interactiveworkfeatured.png"
+  categories: "[\"Assignments\"]"
+- slug: "week-7-building-twisty-little-passages"
+  title: "Week 7: Building Twisty Little Passages"
+  type: "post"
+  date: "2023-10-02"
+  categories: "[\"posts\"]"
+- slug: "week-8-9-dancing-language"
+  title: "Weeks 8-9: Dancing Language"
+  type: "post"
+  date: "2023-10-09"
+  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
+  categories: "[\"posts\"]"
+- slug: "week-10-performing-with-screens"
+  title: "Week 10: Performing With Screens"
+  type: "post"
+  date: "2023-10-23"
+  banner: "uploads/sites/6/2020/10/bpnicholcompleteworks.png"
+  categories: "[\"posts\"]"
+- slug: "week-11-installations-and-virtual-spaces"
+  title: "Week 11: Installations and Virtual Spaces"
+  type: "post"
+  date: "2023-10-30"
+  banner: "uploads/sites/6/2023/10/robopoema.png"
+  categories: "[\"posts\"]"
+- slug: "research-paper"
+  title: "Research Paper"
+  type: "post"
+  date: "2023-11-03"
+  categories: "[\"Assignments\"]"
+- slug: "week-12-jason-edward-lewis"
+  title: "Week 12: Jason Edward Lewis"
+  type: "post"
+  date: "2023-11-06"
+  categories: "[\"posts\"]"
+- slug: "week-13-lillian-yvonne-bertram"
+  title: "Week 13: Lillian-Yvonne Bertram"
+  type: "post"
+  date: "2023-11-13"
+  banner: "uploads/sites/6/2023/11/a_mathiowetz_crop-1-scaled.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-14-a-fun-neal-fun-interval"
+  title: "Week 14: A Fun (Neal.fun) Interval"
+  type: "post"
+  date: "2023-11-20"
+  categories: "[\"posts\"]"
+- slug: "week-15-loss-pequeno-glazier"
+  title: "Week 15: Loss Pequeño Glazier"
+  type: "post"
+  date: "2023-11-27"
+  banner: "uploads/sites/6/2023/11/Glazier-Oliva-552.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-16-shutdown"
+  title: "Week 16: Shutdown"
+  type: "post"
+  date: "2023-12-04"
+  categories: "[\"Assignments\"]"
+- type: "header"
+  term: "Fall 2020"
+- slug: "fall-2020-startup"
+  title: "Fall 2020: Startup"
+  type: "post"
+  date: "2020-08-17"
+  banner: "uploads/sites/6/2020/01/SAAM-1981.109.9_1.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-1-ut-pictura-poesis"
+  title: "Week 1: Literature and the Arts"
+  type: "post"
+  date: "2020-08-18"
+  banner: "uploads/sites/6/2020/01/2360-logo-sardines.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-2-ekphastic-poetry"
+  title: "Week 2: Ekphastic Poetry"
+  type: "post"
+  date: "2020-08-25"
+  banner: "uploads/sites/6/2020/01/western-motel-scaled.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-3-painting-with-words"
+  title: "Week 3: Painting with Words"
+  type: "post"
+  date: "2020-09-01"
+  banner: "uploads/sites/6/2020/01/PicturesFromBrueghel.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-4-concrete-poetry"
+  title: "Week 4: Looking at Poems"
+  type: "post"
+  date: "2020-09-08"
+  banner: "uploads/sites/6/2020/02/decampos_h2.gif"
+  categories: "[\"posts\"]"
+- slug: "week-5-verbivocovisual"
+  title: "Week 5 : Verbivocovisual"
+  type: "post"
+  date: "2020-09-15"
+  banner: "uploads/sites/6/2020/09/dauenhauer_tlingit.jpg"
+  categories: "[\"posts\"]"
+- slug: "essay-1-analysis-and-interpretation-of-an-ekphrastic-or-concrete-poem"
+  title: "Essay #1: Analysis and Interpretation of an Ekphrastic Poem or Concrete Poems"
+  type: "post"
+  date: "2020-09-15"
+  banner: "uploads/sites/6/2020/02/giphy-1.gif"
+  categories: "[\"posts\"]"
+- slug: "week-6-poetry-and-music"
+  title: "Week 6: Poetry and Music"
+  type: "post"
+  date: "2020-09-22"
+  banner: "uploads/sites/6/2020/02/giphy.gif"
+  categories: "[\"posts\"]"
+- slug: "week-7-recorded-poetry"
+  title: "Week 7: Recorded Poetry"
+  type: "post"
+  date: "2020-09-29"
+  banner: "uploads/sites/6/2020/09/Lastpoetsalbum.png"
+  categories: "[\"posts\"]"
+- slug: "week-8-multimodality-and-performance"
+  title: "Week 8: Multimodality and Performance"
+  type: "post"
+  date: "2020-10-06"
+  banner: "uploads/sites/6/2020/03/shane-koyczan-e1473350695743.jpg"
+  categories: "[\"posts\"]"
+- slug: "essay-2-analysis-and-interpretation-of-sound-in-poetry"
+  title: "Essay #2: Sound and Performance in Poetry"
+  type: "post"
+  date: "2020-10-08"
+  banner: "uploads/sites/6/2020/04/listening.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-9-videopoetry"
+  title: "Week 9: Videopoetry"
+  type: "post"
+  date: "2020-10-13"
+  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
+  categories: "[\"posts\"]"
+- slug: "week-10-videopoetry"
+  title: "Week 10: Videopoetry"
+  type: "post"
+  date: "2020-10-20"
+  banner: "uploads/sites/6/2020/10/bpnicholcompleteworks.png"
+  categories: "[\"posts\"]"
+- slug: "week-11-dancing-language"
+  title: "Week 11: Dancing Language"
+  type: "post"
+  date: "2020-10-27"
+  banner: "uploads/sites/6/2020/10/Screen-Shot-2020-10-27-at-3.19.10-PM.png"
+  categories: "[\"posts\"]"
+- slug: "week-12-distant-writing"
+  title: "Week 12: Distant Writing"
+  type: "post"
+  date: "2020-11-03"
+  banner: "uploads/sites/6/2020/11/Screen-Shot-2020-11-03-at-1.29.40-PM.png"
+  categories: "[\"posts\"]"
+- slug: "essay-3-words-in-motion"
+  title: "Essay #3: Words in Motion"
+  type: "post"
+  date: "2020-11-10"
+  banner: "uploads/sites/6/2020/03/I-TRIED-540.gif"
+  categories: "[\"posts\"]"
+- slug: "week-13-interactivity"
+  title: "Week 13: Interactivity"
+  type: "post"
+  date: "2020-11-10"
+  banner: "uploads/sites/6/2020/11/Black-Mirror-Bandersnatch-1.jpg"
+  categories: "[\"posts\"]"
+- slug: "week-14-digital-convergence"
+  title: "Week 14: Digital Convergence"
+  type: "post"
+  date: "2020-11-17"
+  banner: "uploads/sites/6/2020/11/Zellen-Photonews.png"
+  categories: "[\"posts\"]"
+- slug: "week-15-digital-writing-and-art"
+  title: "Week 15: Digital Writing and Art"
+  type: "post"
+  date: "2020-11-24"
+  banner: "uploads/sites/6/2020/11/santadeniersmeme.jpg"
+  categories: "[\"posts\"]"
+- slug: "essay-4-analyzing-electronic-literature"
+  title: "Essay #4: Analyzing Electronic Literature"
+  type: "post"
+  date: "2020-11-24"
+  banner: "uploads/sites/6/2020/11/dreaming_methods_dimogauble.jpg"
+  categories: "[\"posts\"]"
+- type: "header"
+  term: "Spring 2020"
+- slug: "hello-students"
+  title: "Hello Students"
+  type: "post"
+  date: "2020-01-13"
+  banner: "uploads/sites/6/2020/01/Screen-Shot-2020-01-13-at-7.37.14-AM.png"
+  categories: "[\"posts\"]"
+- slug: "course-redesign"
+  title: "Course Redesign"
+  type: "post"
+  date: "2020-03-23"
+  categories: "[\"posts\"]"
+- slug: "weeks-10-11-understanding-v-for-vendetta"
+  title: "Weeks 10 & 11: Understanding V for Vendetta"
+  type: "post"
+  date: "2020-03-30"
+  banner: "uploads/sites/6/2020/03/understanding-Vforvendetta.png"
+  categories: "[\"posts\"]"
+- slug: "weeks-12-13-moving-pictures"
+  title: "Weeks 12-13: Moving Pictures"
+  type: "post"
+  date: "2020-04-16"
+  banner: "uploads/sites/6/2020/04/v-and-evey.jpg"
+  categories: "[\"posts\"]"
+- slug: "weeks-14-15-digital-convergence"
+  title: "Weeks 14-15: Digital Convergence"
+  type: "post"
+  date: "2020-04-22"
+  banner: "uploads/sites/6/2020/04/4b.jpg"
+  categories: "[\"posts\"]"
